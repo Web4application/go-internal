@@ -1,5 +1,6 @@
-The testscript command runs github.com/rogpeppe/go-internal/testscript scripts
-in a fresh temporary work directory tree.
+
+# The testscript command runs github.com/rogpeppe/go-internal/testscript scripts
+ in a fresh temporary work directory tree.
 
 Usage:
     testscript [-v] [-e VAR[=value]]... [-u] [-work] files...
